@@ -299,18 +299,18 @@ img.header-bg {
   background-color: var(--extra-dark);
 }
 .shop__btn{
-  margin-top: 1rem;
+  margin-top: 2rem;
   text-align: center;
 }
 .shop__btn .btn {
-  color: var(--text-dark);
-  background-color: var(--white);
+  color: var(--white);
+  background-color: var(--extra-dark);
   
 }
 
 .shop__btn .btn:hover {
-  color: var(--white);
-  background-color: var(--extra-dark);
+  color: var(--text-dark);
+  background-color: var(--white);
 }
 
 .store__container h2 {
@@ -360,7 +360,6 @@ img.header-bg {
   color: var(--text-dark);
   text-align: center;
 }
-
 .swiper-pagination-bullet-active {
   background-color: var(--text-dark);
 }
